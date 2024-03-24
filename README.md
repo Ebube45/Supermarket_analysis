@@ -74,28 +74,42 @@ Food and Beverage bring in the most income.
 
 ![Question 4](image4.png)
 
+Insight: *The most popular payment method varies depending on the dataset.*
+
 ### Question 5: Gross income distribution by branch? <a name="question-5-gross-income-distribution-by-branch"></a>
 
 ![Question 5](image5.png)
+
+Insight: *The gross income distribution across branches can help identify which branches are performing better in terms of revenue generation.*
 
 ### Question 6: Relationship between gross income and rating? <a name="question-6-relationship-between-gross-income-and-rating"></a>
 
 ![Question 6](image6.png)
 
+Insight: *There appears to be a positive relationship between gross income and customer rating, suggesting that higher-rated purchases contribute to higher gross income.*
+
 ### Question 7: Variation of gross income over time? <a name="question-7-variation-of-gross-income-over-time"></a>
 
 ![Question 7](image7.png)
+
+Insight: *The variation of gross income over time can provide insights into seasonal trends and fluctuations in sales.*
 
 ### Question 8: Average purchase amount by gender? <a name="question-8-average-purchase-amount-by-gender"></a>
 
 ![Question 8](image8.png)
 
+Insight: *Understanding the average purchase amount by gender can help tailor marketing strategies and promotions to specific customer segments.*
+
 ### Question 9: Distribution of ratings given by customers? <a name="question-9-distribution-of-ratings-given-by-customers"></a>
 
 ![Question 9](image9.png)
+
+Insight: *Analyzing the distribution of ratings given by customers can provide insights into overall customer satisfaction and identify areas for improvement.*
 
 ## Conclusion <a name="conclusion"></a>
 
 In conclusion, this analysis provides valuable insights into the supermarket sales data, including customer preferences, popular products, revenue generation, and various relationships within the data. Understanding these insights can help in making informed business decisions to optimize sales strategies, improve inventory management, enhance customer satisfaction, and ultimately drive profitability. By leveraging the information obtained from this analysis, supermarket companies can tailor their marketing efforts, streamline their product offerings, and implement targeted promotional campaigns to attract more customers and increase sales.
 
 Additionally, identifying trends and patterns within the data can enable supermarkets to forecast demand more accurately, allocate resources efficiently, and mitigate risks associated with fluctuating market conditions. Overall, the comprehensive analysis of supermarket sales data empowers businesses to stay competitive in the dynamic retail landscape and adapt to evolving consumer preferences effectively.
+
+You can also refer to my blog post to read more on [Medium](https://medium.com/@ebube45/supermarket-sales-analysis-69d4d60e4e04).
